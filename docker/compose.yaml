@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=template-service-db
+      - POSTGRES_USER=service
+      - POSTGRES_PASSWORD=password
+    ports:
+      - 5432:5432
