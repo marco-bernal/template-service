@@ -1,6 +1,6 @@
 # Microservice Template
 
-Used as a template for Spring Boot 3.3.1 and Java 22.
+Used as a template for Spring Boot 3.3.5 and Java 22.
 
 ### Generic setup:
 Important: Whenever copying a project from a mab template, make sure to delete the .git folder.
